@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+nest-asyncio
+pydantic
+langchain
+langchain-google-genai
+langchain-community
+langsmith
+requests
+streamlit
+FAISS
