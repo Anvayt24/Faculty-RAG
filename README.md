@@ -1,7 +1,7 @@
 
 ---
 
-# 🎓 **Faculty RAG Chatbot**  
+# 🎓 **Faculty RAG**  
 An AI-powered chatbot that helps students find information about their college faculty, including specializations, emails, and more. This project uses **RAG (Retrieval-Augmented Generation)** with **LangChain**, **Google Gemini API**, **FastAPI**, **LangSmith**, and **Streamlit**.
 
 ---
